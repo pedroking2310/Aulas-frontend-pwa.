@@ -1,7 +1,10 @@
-.avatar_root{
-height: 40px;
-width: 40px;
-border-radius: 10%;
-background-color: var(--cor-fundo-padrao);
+.avatar_root {
+  height: 40px;
+  width: 40px;
+  border-radius: 50%;
+  background-color: var(--cor-fundo-padrao);
 
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
